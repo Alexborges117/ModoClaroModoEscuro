@@ -33,7 +33,7 @@ h1{
     cursor: pointer;
 }
 /*Preparando o circulo estilizando ele
-left 0 para deixar o botao parado no inicio*/
+bottom 0 para deixar o botao parado no inicio*/
 .cilindro .circulo{
     width: 150px;
     height: 150px;
