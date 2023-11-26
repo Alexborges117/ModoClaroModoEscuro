@@ -41,7 +41,7 @@ bottom 0 para deixar o botao parado no inicio*/
     border-radius: 50%;
     transform: scale(.9);
     position: absolute; 
-    bottom: 0;
+    bottom: 0px;
     transition: .5s;
 }
 /*chamadno a variavel do js dentro do cilindro
